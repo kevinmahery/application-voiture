@@ -8,4 +8,5 @@ Dans le répertoire du projet, vous pouvez exécuter:
 
 # Information pour la connexion d'un utilisateur
 Email: test@test.com
+
 Mot de passe: test
